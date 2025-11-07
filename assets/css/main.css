@@ -7085,3 +7085,12 @@ span {
   }
 }
 
+
+.bg-bottom{
+  background-position: bottom !important;
+}
+
+.aspect-video{
+  aspect-ratio: 16/9 !important;
+  object-fit: cover;
+}

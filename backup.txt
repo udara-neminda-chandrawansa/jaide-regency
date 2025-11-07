@@ -163,3 +163,79 @@
             </div>
         </div>
     </section>
+
+        <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="swiper hero-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="hero-1">
+                        <div class="hero-bg bg-cover"
+                            style="background-image:url('https://images.unsplash.com/photo-1564501049412-61c2a3083791?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')">
+                        </div>
+                        <div class="container">
+                            <div class="hero-content text-center">
+                                <span class="sub-font sub-title fs-20 mb-sm-4 mb-3 d-block white-clr">Authentic Sri
+                                    Lankan hospitality</span>
+                                <h1 class="mb-5 white-clr fw-semibold">Your <span class="theme-clr">Gateway</span>
+                                    to<br>Cultural Paradise<br>in Kandy</h1>
+                                <p class="mb-5">
+                                    Welcome to the heart of Sri Lanka’s cultural capital. At Jaide Regency Kandy, we
+                                    invite you to experience authentic Sri Lankan hospitality infused with modern
+                                    luxury. Discover serenity, elegance, and a warm welcome in the sacred city of Kandy.
+                                </p>
+                                <div class="hero-btn-adjust">
+                                    <a href="#" class="theme-btn fw-normal text-capitalize gap-1">Book Now</a>
+                                    <a href="#" class="room">
+                                        <i class="fas fa-arrow-right"></i> View Rooms
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="hero-slide-btn">
+                            <button type="button" class="common-slide-btn d-center rounded-1 array-prev">
+                                <i class="fa-solid fa-angle-left"></i>
+                            </button>
+                            <button type="button" class="common-slide-btn d-center rounded-1 array-next">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="hero-1">
+                        <div class="hero-bg bg-cover"
+                            style="background-image:url('https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80')">
+                        </div>
+                        <div class="container">
+                            <div class="hero-content text-center">
+                                <span class="sub-font sub-title fs-20 mb-sm-4 mb-3 d-block white-clr">Authentic Sri
+                                    Lankan hospitality</span>
+                                <h1 class="mb-5 white-clr fw-semibold">Experience <span class="theme-clr">Luxury
+                                    </span><br>in the Heart of<br>Sacred Kandy</h1>
+                                <p class="mb-5">
+                                    Welcome to the heart of Sri Lanka’s cultural capital. At Jaide Regency Kandy, we
+                                    invite you to experience authentic Sri Lankan hospitality infused with modern
+                                    luxury. Discover serenity, elegance, and a warm welcome in the sacred city of Kandy.
+                                </p>
+                                <div class="hero-btn-adjust">
+                                    <a href="#" class="theme-btn fw-normal text-capitalize gap-1">Book Now</a>
+                                    <a href="#" class="room">
+                                        <i class="fas fa-arrow-right"></i> View Rooms
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="hero-slide-btn">
+                            <button type="button" class="common-slide-btn d-center rounded-1 array-prev">
+                                <i class="fa-solid fa-angle-left"></i>
+                            </button>
+                            <button type="button" class="common-slide-btn d-center rounded-1 array-next">
+                                <i class="fa-solid fa-angle-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
